@@ -1,2 +1,2 @@
-numpy
-opencv_python
+numpy>=2.0
+opencv_python>=4.8
