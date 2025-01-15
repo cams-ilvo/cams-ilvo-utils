@@ -1,0 +1,15 @@
+/build/
+/dist/
+/cams_ilvo_utils.egg-info/
+venv
+.venv
+**/__pycache__/
+.idea/
+
+.coverage
+coverage.*
+
+.env
+*.egg-info
+.pytest_cache
+.vscode
