@@ -4,9 +4,12 @@
 
 This python package is part of the cams-ilvo project and supports camera calibration and basic image manipulation.
 
-## Usage
+## Getting started
+
+1. Install the package
 
 ```bash
+pip install numpy opencv-python
 pip install cams-ilvo-utils
 ```
 
