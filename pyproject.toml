@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cams_ilvo_utils"
-version = "0.0.14"
+version = "0.0.1"
 authors = [
     { name="Axel Willekens", email="axel.willekens@ilvo.vlaanderen.be" }
 ]
 description = "The camera ILVO utils"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.9"
 classifiers = [
    "Programming Language :: Python :: 3",
    "Operating System :: OS Independent",
